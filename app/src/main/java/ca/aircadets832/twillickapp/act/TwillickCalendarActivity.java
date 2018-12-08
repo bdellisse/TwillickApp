@@ -1,14 +1,13 @@
 package ca.aircadets832.twillickapp.act;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.webkit.WebChromeClient;
-import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+import androidx.appcompat.app.AppCompatActivity;
 import ca.aircadets832.twillickapp.R;
 
 public class TwillickCalendarActivity extends AppCompatActivity {
